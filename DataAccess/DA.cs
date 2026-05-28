@@ -8,6 +8,9 @@ namespace DataAccess
 {
     public class DA
     {
-        //Test Milan 222
+        public static string return_constring()
+        {
+            return "server=localhost;user id=root;Password=ADB@SJB;database=gameshop";
+        }
     }
 }
