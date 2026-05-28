@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace DataAccess
 {
-    internal class DA_Games : DA
+    public class DA_Games : DA
     {
+
     }
 }
