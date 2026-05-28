@@ -13,7 +13,7 @@ namespace Business
         public string Titel { get; set; }
         public string Genre { get; set; }
         public double Prijs { get; set; }
-        public int leeftijd { get; set; }
+        public int Leeftijd { get; set; }
 
         //default constructor
         public Games()
